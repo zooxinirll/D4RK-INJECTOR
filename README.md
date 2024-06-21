@@ -1,6 +1,8 @@
 # D4RK-INJECTOR V1.0 pass-gen 🔐
 A powerful and customizable password generator to meet all your security needs.
 
+Username & Password : Admin
+
 # Installation
 git clone https://github.com/10c4lh0st07/D4RK-INJECTOR/
 
