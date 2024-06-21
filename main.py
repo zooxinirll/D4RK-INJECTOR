@@ -25,7 +25,7 @@ def print_banner():
     print_color("----------------------------------","yellow")
     print_color("| D4RK-INJECTOR v1.0-Password Gen |","yellow")
     print_color("----------------------------------","yellow")
-    print("Author: UnKn0wN-Netw0rk")
+    print("Author: LocalHost.07")
     print("")
 
 def print_color(text, color):
